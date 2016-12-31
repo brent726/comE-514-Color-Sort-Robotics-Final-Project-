@@ -4,9 +4,12 @@ This is an RGB Color Sort using Lynx 5 robotic arm with the ssc 32 microcontroll
 
 For the image processing (done with opencv):
 imageProcessing.cpp and .h
+
+
+
 For the movement of the robot:
 robotSupport.cpp and .h - core functions that are needed in moving the robot
-robotMotion.cpp and .h - I think this is not needed anymore
+robotMotion.cpp and .h - I think this is not needed anymore (disregard the description in the comment portion)
 robotMove.cpp and .h - calls robotSupport Function
 
 Main method:
